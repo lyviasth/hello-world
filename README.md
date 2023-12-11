@@ -1,2 +1,2 @@
 # hello-world
-description of a hello world repository
+description of a hello world repository :)
